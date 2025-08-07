@@ -1,0 +1,32 @@
+# === Node.js (React Frontend) ===
+node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+
+# === Python (Backend) ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+backend/.env
+backend/.DS_Store
+backend/__pycache__/
+
+# === Logs, Environment, and Output ===
+.env
+*.env
+*.log
+*.sqlite3
+
+# === VS Code and OS files ===
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Git ===
+.git/
