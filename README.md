@@ -32,23 +32,6 @@ To demonstrate an end-to-end implementation of:
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-project-root/
-├── backend/
-│   ├── main.py              # FastAPI app
-│   ├── utils.py             # PDF parsing, chunking
-│   ├── rag.py               # Embedding, FAISS logic
-│   └── requirements.txt
-├── frontend/
-│   └── (React app files)
-├── .gitignore
-└── README.md
-
-````
-
 ---
 
 ## 🖥️ Features
